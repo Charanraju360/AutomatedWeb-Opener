@@ -40,4 +40,3 @@ After providing inputs, all three websites will open automatically in the browse
 ---
 
 Happy browsing! 🚀✨
-```
